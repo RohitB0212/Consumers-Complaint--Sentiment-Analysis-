@@ -1,0 +1,29 @@
+Topic: - Consumer Complaints Analysis
+
+Problem Statement: -
+	Determine the top companies that received more disputes.
+	Is the trend of disputes increasing or decreasing?
+	What is the overall sentiment of the issues?
+	What is the sentiment for the top organizations that have disputes with regards to the issues declared by the customer
+	Main objective is to classify products on the basis on customer review.
+
+Methodology: - 
+	Load the given dataset in Jupyter notebook with panda’s library
+	Data Cleaning.
+	Data Visualization
+	 Prepare data for models
+	Select machine learning algorithms and train the data
+	Accuracy of model
+
+Conclusion: - 
+Complaint analysis is essential for companies as it involves not only evaluating and understanding complaint data, 
+Customer complaints are a regular occurrence for businesses, and it is also a measure of their success, including customer happiness, 
+the number of new customers, and appreciation notes. Thus, managing customer complaints in a thorough manner is crucial to avoid failures and produce product and process improvements. 
+This study has demonstrated the significance of utilizing machine learning algorithms to anticipate and evaluate customer complaint data, with the establishment of logistic regression and SVM models to predict consumer complaints of financial organizations.
+The results of this study have shown that SVM has the highest accuracy in predicting financial users’ complaints about products this study have been identified, including the prioritization of customer complaints, improvement of complaint management strategies, and enhancement of customer satisfaction and loyalty.
+The study’s findings demonstrate the potential benefits of utilizing machine learning algorithms to anticipate and evaluate customer complaint data. Overall, businesses can benefit from the insights provided by this study, enabling them to identify patterns and trends in customer complaints, address issues proactively, and ultimately improve their products or services.
+
+
+
+
+
